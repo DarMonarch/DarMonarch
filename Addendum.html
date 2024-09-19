@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Addendum Page</title>
+</head>
+<body style="text-align: center;">
+    <h1 style="text-align: center;"><b><u>Addendum Page</u></b></h1>
+    <p>In this page you can view the tags that I used in Article HTML page.</p>
+    <h4><b><u>Home Page Addendum</u></b></h4>
+    <p>The tags that I used in home page are: <br> <br>
+       <b>h1</b>  - Used for Headings. <br>
+        <b>b</b> - used for text to be in Bold. <br>
+        <b>i</b> - used for text to be in Italic font. <br>
+        <b>u</b> - used for text to be in Underline. <br>
+        <b>br</b> - used to break the line in Paragragh. <br>
+        <b>p</b>  - used for the content to display in browser. <br>
+        <b>a href</b> - used for link in Home Page to Article Page and Addendum Page. <br>
+    </p>
+
+    <h4><b><u>Article Page Addendum</u></b></h4>
+    <p>
+        The tags that I used in Article Page are: <br> <br>
+        <b>article</b> - used for the page to be in format of article style. <br>
+        <b>footer</b> - used for automatically update the last modified date of page. <br>
+    </p>
+
+    <footer>
+        <p style="text-align: center;"><b>Last updated:</b> 
+            <span id="foot_tag"></span>
+        </p>
+    </footer>
+    <script type="text/javascript">
+         var i = document.lastModified;
+         document.getElementById('foot_tag').textContent = i;
+    </script>
+    
+</body>
+</html>
