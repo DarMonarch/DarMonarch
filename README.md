@@ -395,24 +395,6 @@ _Building Expertise Daily_
 </tr>
 </table>
 
-<!-- Activity Graph -->
-<div align="center">
-
-## 📈 **DEVELOPMENT ACTIVITY MATRIX**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustaqsohailshaik&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
-
-</div>
-
-<!-- GitHub Stats -->
-<div align="center">
-
-## 📊 **GITHUB ANALYTICS**
-
-<img src="https://github-readme-stats.vercel.app/api?username=mustaqsohailshaik&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqsohailshaik&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=ff6b6b&currStreakLabel=00D4AA" height="180em"/>
-
-</div>
 
 <!-- Footer -->
 <div align="center">
