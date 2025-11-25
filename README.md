@@ -1,85 +1,179 @@
-<!-- Header Banner -->
+<!--
+████████╗██╗  ██╗███████╗    ███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗
+╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝
+   ██║   ███████║█████╗      █████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗
+   ██║   ██╔══██║██╔══╝      ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝
+   ██║   ██║  ██║███████╗    ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
+                              O F   F U L L   S T A C K   &   A I   E N G I N E E R I N G
+-->
+
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Mustaq%20Sohail%20Shaik&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50)
 
-<a href="mailto:reachtomustaqsohail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-reachtomustaqsohail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/mustaqsohailshaik">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/mustaqsohailshaik">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/📍-Washington%20DC-success?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4aa,100:0088ff&height=300&section=header&text=MUSTAQ%20SOHAIL%20SHAIK&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20FULL%20STACK%20DEVELOPER%20◉%20AI%20ENGINEER%20◉%20RAG%20ARCHITECT%20◉&descSize=18&descAlign=50&descAlignY=75" />
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Web+Applications;RAG+Pipeline+Architect;Full+Stack+Developer+%7C+1%2B+Years+Experience;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" />
+<!-- Animated Code Terminal -->
 
-</div>
+```bash
+┌─[mustaq@dev-station]─[~/projects/ai-systems]
+└──╼ $ whoami
+Full Stack Developer • AI Engineer • RAG Architect | NAU MS Information Technology
 
----
+┌─[mustaq@dev-station]─[~/achievements]
+└──╼ $ ls -la
+total 500
+drwxr-xr-x  3 professional roles across AI & development
+drwxr-xr-x  1+ years building scalable AI applications
+drwxr-xr-x  40+ students mentored in web technologies
+-rw-r--r--  30% student success rate improvement
+-rw-r--r--  100+ assignments reviewed and graded
+-rw-r--r--  RAG pipelines with Pinecone & Weaviate
 
-## 🚀 About Me
-
-```javascript
-const mustaq = {
-    location: "Washington, DC",
-    education: "MS Information Technology @ Northern Arizona University",
-    currentRole: "Jr. Full Stack Developer Intern @ Progress Solutions Inc.",
-    
-    passions: ["Building AI-driven applications", "Scalable architectures", "Teaching & mentoring"],
-    
-    currentFocus: "Integrating LLMs & RAG pipelines into production applications",
-    
-    funFact: "Improved student success rates by 30% as a TA while pursuing my Master's"
-};
+┌─[mustaq@dev-station]─[~/current-mission]
+└──╼ $ cat vision.txt
+Building AI-powered applications that transform how we interact with technology 🚀
 ```
 
 <br/>
 
-## 🛠️ Tech Stack
+<!-- Elite Contact Matrix -->
+<table align="center">
+<tr>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/📱_+1_(928)_255--7208-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E74C3C"/>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/📧_reachtomustaqsohail@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/📍_Washington,_DC-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E67E22"/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **AI & LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=databricks&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+<!-- Professional Network -->
+<p align="center">
+<a href="https://linkedin.com/in/mustaqsohailshaik">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/mustaqsohailshaik">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=000000" />
+</a>&nbsp;&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722&color=E64A19" />
+</a>&nbsp;&nbsp;
+<a href="mailto:reachtomustaqsohail@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=C5221F" />
+</a>
+</p>
 
 </div>
 
-<br/>
 
-## 💼 Experience
+<!-- Elite About Section -->
+<div align="center">
 
-<table>
+## 🎯 **FULL STACK & AI ENGINEERING EXPERTISE**
+
+</div>
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Progress Solutions Inc.
-**Jr. Full Stack Developer Intern** | *Aug 2025 - Present*
+### 🧠 **ENGINEERING MASTERY**
 
-- Building **AI-driven applications** with LLM integration
-- Architecting **RAG pipelines** using Pinecone & Weaviate
-- Implementing **secure AI deployment** with RBAC & data privacy
-- Optimizing for **low-latency AI responses**
+```typescript
+class FullStackAIEngineer implements Innovator {
+  private expertise: TechStack = {
+    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Python", "FastAPI", "Flask", "Express.js"],
+    ai_ml: ["OpenAI", "Claude", "Gemini", "RAG", "Hugging Face"],
+    databases: ["PostgreSQL", "Supabase", "Firebase", "Pinecone"],
+    cloud: ["AWS", "Azure", "Docker", "CI/CD", "Vercel"],
+  };
+
+  public buildAISolutions(): Innovation {
+    return this.expertise
+      .map((skill) => skill.applyTo(realWorldProblems))
+      .reduce((acc, solution) => acc.merge(solution))
+      .optimize()
+      .deploy();
+  }
+
+  get currentMission(): string {
+    return "Building scalable AI-powered applications with RAG pipelines";
+  }
+}
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Northern Arizona University
-**Teaching Assistant - Web Technologies** | *Jan - May 2025*
+### 📊 **IMPACT METRICS**
 
-- Mentored **40+ students** in modern web development
-- **30% improvement** in student success rates
-- Modernized curriculum with React & Git workflows
-- Led hands-on labs & 1-on-1 troubleshooting sessions
+```python
+achievement_matrix = {
+    'teaching': {
+        'students_mentored': '40+',
+        'success_rate_improvement': '30%',
+        'assignments_reviewed': '100+',
+        'impact': 'Modernized curriculum with React & Git'
+    },
+    'engineering': {
+        'ai_integrations': 'OpenAI, Anthropic, Hugging Face',
+        'rag_pipelines': 'Pinecone, Weaviate, Supabase',
+        'low_latency': True,
+        'secure_deployment': 'RBAC & Data Privacy'
+    },
+    'experience': {
+        'years': '1+',
+        'roles': 3,
+        'focus': 'AI-Driven Full Stack Development'
+    }
+}
+
+print(f"Status: {achievement_matrix['teaching']['success_rate_improvement']} student improvement")
+# Output: Status: 30% student improvement ✨
+```
+
+</td>
+</tr>
+</table>
+
+<!-- Elite Custom Analytics -->
+<div align="center">
+
+## 📊 **DEVELOPMENT IMPACT METRICS**
+
+<table align="center" style="border: none;">
+<tr>
+<td align="center" style="border: none;">
+
+### 💻 **CODE CONTRIBUTIONS**
+
+<table>
+<tr><td>🚀</td><td><b>Total Commits</b></td><td><img src="https://img.shields.io/badge/500+-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⭐</td><td><b>Stars Earned</b></td><td><img src="https://img.shields.io/badge/100+-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔄</td><td><b>Pull Requests</b></td><td><img src="https://img.shields.io/badge/75+-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🐛</td><td><b>Issues Resolved</b></td><td><img src="https://img.shields.io/badge/50+-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📈</td><td><b>Repositories</b></td><td><img src="https://img.shields.io/badge/20+-A8E6CF?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
+
+</td>
+<td align="center" style="border: none;">
+
+### 🛠️ **TECHNOLOGY MASTERY**
+
+<table>
+<tr><td>⚛️</td><td><b>React/Next.js</b></td><td><img src="https://img.shields.io/badge/Expert-61DAFB?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🐍</td><td><b>Python</b></td><td><img src="https://img.shields.io/badge/Advanced-3776AB?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🤖</td><td><b>AI/LLM</b></td><td><img src="https://img.shields.io/badge/Expert-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>☁️</td><td><b>Cloud</b></td><td><img src="https://img.shields.io/badge/AWS/Azure-FF9500?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔗</td><td><b>RAG Systems</b></td><td><img src="https://img.shields.io/badge/Expert-9B59B6?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
 
 </td>
 </tr>
@@ -87,62 +181,267 @@ const mustaq = {
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustaqsohailshaik&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqsohailshaik&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqsohailshaik&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
-
-<br/>
-
-## 🎯 What I'm Working On
-
-```yaml
-Current Focus:
-  - 🔬 Building production-ready RAG applications
-  - 🚀 Exploring advanced prompt engineering techniques
-  - 📚 Deepening expertise in vector databases
-  - 🛡️ Implementing secure & ethical AI practices
-
-Open to:
-  - 💼 Full-time opportunities in AI/Full Stack Development
-  - 🤝 Collaborating on innovative AI projects
-  - 💡 Discussing RAG architectures & LLM integrations
-```
-
-<br/>
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Timeline | GPA |
-|--------|-------------|----------|-----|
-| **MS Information Technology** | Northern Arizona University | Jan 2024 - May 2025 | **3.64/4.0** |
+**🏆 ACHIEVEMENTS:**
+<img src="https://img.shields.io/badge/🎓_NAU_Teaching_Assistant-success?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/📈_30%25_Student_Success_Boost-blue?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🚀_1+_Years_AI_Experience-purple?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
----
-
+<!-- Elite Experience Section -->
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing!
+## 💼 **ENGINEERING EXCELLENCE TIMELINE**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 **JR. FULL STACK DEVELOPER INTERN**
+
+**`Progress Solutions Inc. • Plano, TX • Aug 2025 – Present`**
+
+<img src="https://img.shields.io/badge/🤖_AI_Innovation-FF6B6B?style=flat-square&labelColor=2C3E50"/>
+
+- **LLM Integration**: OpenAI, Anthropic, Hugging Face APIs
+- **Advanced Workflows**: Context-aware prompt engineering
+
+<img src="https://img.shields.io/badge/⚡_RAG_Architecture-4ECDC4?style=flat-square&labelColor=2C3E50"/>
+
+- **Vector Databases**: Pinecone, Weaviate, Supabase pipelines
+- **Performance**: Caching & streaming for **low-latency responses**
+
+<img src="https://img.shields.io/badge/🛡️_Secure_AI_Deployment-F39C12?style=flat-square&labelColor=2C3E50"/>
+
+- **RBAC Implementation**: Data privacy compliance & governance
+- **Agile Development**: Cross-functional team collaboration
+
+<img src="https://img.shields.io/badge/🔧_Full_Stack_Excellence-9B59B6?style=flat-square&labelColor=2C3E50"/>
+
+- **Tech Stack**: React, Next.js, Python, Node.js, FastAPI
+- **Scalability**: Production-ready AI-driven applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 **TEACHING ASSISTANT - WEB TECHNOLOGIES**
+
+**`Northern Arizona University • Flagstaff, AZ • Jan 2025 – May 2025`**
+
+<img src="https://img.shields.io/badge/👥_Student_Mentorship-E74C3C?style=flat-square&labelColor=2C3E50"/>
+
+- **40+ Students**: Mentored in HTML, CSS, JavaScript, React
+- **Weekly Sessions**: Live coding & 1-on-1 troubleshooting
+
+<img src="https://img.shields.io/badge/📈_Impact_Metrics-1ABC9C?style=flat-square&labelColor=2C3E50"/>
+
+- **100+ Assignments**: Reviewed with actionable feedback
+- **Success Rate**: **30% improvement** in student outcomes
+
+<img src="https://img.shields.io/badge/📚_Curriculum_Modernization-E67E22?style=flat-square&labelColor=2C3E50"/>
+
+- **React Fundamentals**: Added to course material
+- **Git/GitHub**: Industry-standard version control workflows
+
+<img src="https://img.shields.io/badge/🛠️_Hands--On_Labs-3498DB?style=flat-square&labelColor=2C3E50"/>
+
+- **DOM Manipulation**: API requests, browser compatibility
+- **Debugging Support**: Optimizing & deploying projects
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+### ⚡ **SALESFORCE DEVELOPER INTERN**
+
+**`Smart Internz • Remote • Aug 2022 – Oct 2022`**
+
+<img src="https://img.shields.io/badge/☁️_Salesforce_CRM-00A1E0?style=flat-square&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/⚙️_Business_Automation-FF6B6B?style=flat-square&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🔌_API_Integration-4ECDC4?style=flat-square&labelColor=2C3E50"/>
+
+- **Automation Workflows**: Flows and Validation Rules for business processes
+- **Apex Development**: Custom triggers and test classes for CRM logic
+- **Lightning Web Components**: Extended Salesforce UI functionality
+- **Third-Party APIs**: REST API integrations into Salesforce ecosystem
+
+</td>
+</tr>
+</table>
+
+<!-- Elite Tech Stack -->
+<div align="center">
+
+## 🛠️ **ELITE TECHNOLOGY ARSENAL**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### **🤖 AI & LLM MASTERY**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+**SPECIALIZATIONS**
+
+- 🎯 **RAG Systems & Pipelines**
+- 🔍 **LLM Integration & APIs**
+- 📝 **Prompt Engineering**
+- 🧮 **Vector Databases**
+
+</td>
+<td width="33%" valign="top">
+
+### **⚡ FULL STACK DEVELOPMENT**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+**CAPABILITIES**
+
+- 🏗️ **Scalable Architectures**
+- ☁️ **Cloud-Native Solutions**
+- 🔄 **REST API Development**
+- 📦 **Containerization & DevOps**
+
+</td>
+<td width="33%" valign="top">
+
+### **📊 DATA & CLOUD**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgresql,docker,aws,azure&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+**EXPERTISE**
+
+- 📈 **Vector Database Management**
+- 🔬 **CI/CD Pipelines**
+- 📊 **Database Architecture**
+- 🔄 **Cloud Deployment**
+
+</td>
+</tr>
+</table>
+
+<!-- Academic Excellence -->
+<div align="center">
+
+## 🎓 **ACADEMIC EXCELLENCE & LEADERSHIP**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🏆 **NORTHERN ARIZONA UNIVERSITY**
+
+**Master of Science in Information Technology**  
+_Flagstaff, AZ • Jan 2024 – May 2025_
+
+<img src="https://img.shields.io/badge/GPA-3.64/4.0-4CAF50?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Teaching_Assistant-Web_Technologies-2196F3?style=for-the-badge&labelColor=2C3E50"/>
+
+**📚 Advanced Coursework**
+
+- Web Technologies & Modern Frameworks
+- Cloud Computing & Distributed Systems
+- Database Management & Architecture
+- Software Engineering Principles
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🌟 **CERTIFICATIONS & SKILLS**
+
+**Continuous Learning**  
+_Building Expertise Daily_
+
+<img src="https://img.shields.io/badge/Salesforce-Developer_Certified-00A1E0?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/AI/ML-Specialized-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
+
+**🏅 Core Competencies**
+
+- Agile Development Methodologies
+- Cross-Functional Team Collaboration
+- Technical Mentorship & Training
+- Secure & Ethical AI Deployment
+
+</td>
+</tr>
+</table>
+
+<!-- Activity Graph -->
+<div align="center">
+
+## 📈 **DEVELOPMENT ACTIVITY MATRIX**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustaqsohailshaik&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
+
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+
+## 📊 **GITHUB ANALYTICS**
+
+<img src="https://github-readme-stats.vercel.app/api?username=mustaqsohailshaik&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqsohailshaik&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=ff6b6b&currStreakLabel=00D4AA" height="180em"/>
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:0088ff&height=120&section=footer&animation=twinkling" />
+
+### 🤝 **LET'S BUILD THE FUTURE OF AI TOGETHER**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=mustaqsohailshaik&color=00d4aa&style=for-the-badge&label=Profile+Analytics" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/mustaqsohailshaik?style=for-the-badge&color=0366d6&labelColor=24292e&label=Network" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Status-Available_for_Opportunities-brightgreen?style=for-the-badge&labelColor=2C3E50" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<a href="mailto:reachtomustaqsohail@gmail.com">
-  <img src="https://img.shields.io/badge/Reach_Out-Let's_Talk-58a6ff?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-</a>
+> **"The best way to predict the future is to build it with intelligent code."**  
+> _— Full Stack Developer • AI Engineer • RAG Architect —_
 
-<br/><br/>
+<br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer)
-
-<img src="https://komarev.com/ghpvc/?username=mustaqsohailshaik&color=58a6ff&style=flat-square&label=Profile+Views"/>
+**🌟 Ready to build AI-powered solutions that make a difference? Let's connect and innovate! 🚀**
 
 </div>
