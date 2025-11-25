@@ -55,7 +55,7 @@ Building AI-powered applications that transform how we interact with technology 
 
 <!-- Professional Network -->
 <p align="center">
-<a href="https://linkedin.com/in/mustaqsohailshaik">
+<a href="https://linkedin.com/in/DarMonarch">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/mustaqsohailshaik">
