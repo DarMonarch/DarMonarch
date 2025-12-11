@@ -198,22 +198,24 @@ Apex Development • Lightning Web Components • REST API Integrations • Auto
 
 ---
 
-## 📈 **GitHub Analytics**
+## 📈 **GitHub Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarMonarch&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarMonarch&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DarMonarch&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=DarMonarch&color=00d4aa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DarMonarch?style=for-the-badge&color=0088ff&labelColor=1a1b27&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Repos-12-FF5722?style=for-the-badge&labelColor=1a1b27" alt="Repos" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarMonarch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### 🏆 **Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarMonarch&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://img.shields.io/badge/🎓_NAU_Teaching_Assistant-success?style=for-the-badge&labelColor=2C3E50" alt="TA" />
+  <img src="https://img.shields.io/badge/📊_30%25_Student_Success_Boost-blue?style=for-the-badge&labelColor=2C3E50" alt="Success" />
+  <img src="https://img.shields.io/badge/🚀_3+_Years_Experience-purple?style=for-the-badge&labelColor=2C3E50" alt="Experience" />
 </p>
 
 ---
