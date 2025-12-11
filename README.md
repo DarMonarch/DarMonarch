@@ -200,18 +200,21 @@ Apex Development • Lightning Web Components • REST API Integrations • Auto
 
 ## 📈 **GitHub Analytics**
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=DarMonarch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=0088ff&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarMonarch&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4aa&ring=0088ff&fire=00d4aa&currStreakLabel=00d4aa" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarMonarch&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DarMonarch&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarMonarch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4aa&text_color=ffffff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarMonarch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarMonarch&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
 
 ---
 
