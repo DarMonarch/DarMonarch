@@ -226,9 +226,9 @@ Apex Development • Lightning Web Components • REST API Integrations • Auto
 
 ### 🤝 **Let's Build the Future of AI Together**
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DarMonarch)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mustaq-sohail-shaik-2224482a8/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://darmonarch.github.io/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachtomustaqsohail@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohailshaik8255@gmail.com)
 
 <br/>
 
