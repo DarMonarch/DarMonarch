@@ -28,10 +28,10 @@ Engineering intelligent systems that bridge AI research and production-ready app
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182)](https://linkedin.com/in/DarMonarch)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182)](https://www.linkedin.com/in/mustaq-sohail-shaik-2224482a8/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=000000)](https://github.com/DarMonarch)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722&color=E64A19)](https://darmonarch.github.io/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=C5221F)](mailto:reachtomustaqsohail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=C5221F)](mailto:sohailshaik8255@gmail.com)
 
 </div>
 
