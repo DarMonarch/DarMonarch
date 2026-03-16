@@ -10,7 +10,7 @@ Software Engineer | AI/ML Engineer | Full Stack Developer | NAU MS Information T
 ┌─[sohail@dev-station]─[~/achievements]
 └──╼ $ ls -la
 total 750
-drwxr-xr-x  3+ years building end-to-end AI and backend systems
+drwxr-xr-x  4+ years building end-to-end AI and backend systems
 drwxr-xr-x  ML models in TensorFlow & PyTorch
 drwxr-xr-x  Scalable microservices architecture
 -rw-r--r--  40+ students mentored in web technologies
