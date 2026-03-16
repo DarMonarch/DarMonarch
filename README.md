@@ -120,9 +120,9 @@ ai_engineering:
 <tr>
 <td width="50%">
 
-### 🚀 Jr. Full Stack Developer Intern
-**Progress Solutions Inc. • Plano, TX**  
-*Aug 2025 – Present*
+### 🚀 AI Software Engineer
+**Berkshire Hathaway • Washington, DC**  
+*Dec 2024 – Present*
 
 - 🤖 **LLM Integration**: OpenAI, Anthropic, Hugging Face APIs
 - 🔄 **ML Pipelines**: TensorFlow & PyTorch model deployment
@@ -134,9 +134,9 @@ ai_engineering:
 </td>
 <td width="50%">
 
-### 🎓 Teaching Assistant - Web Technologies
-**Northern Arizona University • Flagstaff, AZ**  
-*Jan 2025 – May 2025*
+### 🚀Software Development Engineer
+** Travelers • Hyderabad, India**  
+*Jun 2022 – Nov 2023*
 
 - 👨‍🏫 **Mentored 40+ students** in HTML, CSS, JavaScript, React
 - 📈 **30% improvement** in student success rates
@@ -152,8 +152,8 @@ ai_engineering:
 <tr>
 <td align="center">
 
-### ⚡ Salesforce Developer Intern
-**Smart Internz • Remote • Aug 2022 – Oct 2022**
+### 🚀Associate Software Engineer
+**Cinch Home Services • India • Jan 2021 – May 2022**
 
 Apex Development • Lightning Web Components • REST API Integrations • Automation Workflows
 
