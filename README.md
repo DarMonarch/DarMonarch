@@ -215,7 +215,7 @@ Apex Development • Lightning Web Components • REST API Integrations • Auto
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_NAU_Teaching_Assistant-success?style=for-the-badge&labelColor=2C3E50" alt="TA" />
   <img src="https://img.shields.io/badge/📊_30%25_Student_Success_Boost-blue?style=for-the-badge&labelColor=2C3E50" alt="Success" />
-  <img src="https://img.shields.io/badge/🚀_3+_Years_Experience-purple?style=for-the-badge&labelColor=2C3E50" alt="Experience" />
+  <img src="https://img.shields.io/badge/🚀_4+_Years_Experience-purple?style=for-the-badge&labelColor=2C3E50" alt="Experience" />
 </p>
 
 ---
